@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>life - 分类 - Levon小站</title>
-        <link>https://lawlevon.gitee.io/categories/life/</link>
-        <description>life - 分类 - Levon小站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 28 Aug 2021 16:36:09 &#43;0800</lastBuildDate><atom:link href="https://lawlevon.gitee.io/categories/life/" rel="self" type="application/rss+xml" /><item>
+        <title>life - 分类 - 不爱学习的小卢</title>
+        <link>https://levonlu.gitee.io/categories/life/</link>
+        <description>life - 分类 - 不爱学习的小卢</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 28 Aug 2021 16:36:09 &#43;0800</lastBuildDate><atom:link href="https://levonlu.gitee.io/categories/life/" rel="self" type="application/rss+xml" /><item>
     <title>建站第一天</title>
-    <link>https://lawlevon.gitee.io/posts/first/</link>
+    <link>https://levonlu.gitee.io/posts/first/</link>
     <pubDate>Sat, 28 Aug 2021 16:36:09 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://lawlevon.gitee.io/posts/first/</guid>
+    <guid>https://levonlu.gitee.io/posts/first/</guid>
     <description><![CDATA[终于完成了Hugo的部署，主题什么的也配置好了。 这几天无心学习，就搞了这些事情。比打游戏强那么一点点吧。]]></description>
 </item></channel>
 </rss>
