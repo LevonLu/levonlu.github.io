@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LoveIt</title>
+        <link>https://levonlu.github.io/en/</link>
+        <description>技术与生活</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>levon0525@163.com (Levon)</managingEditor>
+            <webMaster>levon0525@163.com (Levon)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+            <atom:link href="https://levonlu.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
